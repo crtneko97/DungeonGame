@@ -1,0 +1,17 @@
+Saved Date: 2022-10-28
+<Player Attribute Stats>
+Name: simonk
+Strength: 1
+Base Damage: 2
+Intelligence: 1
+Agility: 1
+MaxHealth:110
+Level: 1
+Currency: 3
+
+<Levels Defeated>
+Level1 Defeated: 1
+Level2 Defeated: 0
+Level3 Defeated: 0
+Level4 Defeated: 0
+Level Defeated: 0
